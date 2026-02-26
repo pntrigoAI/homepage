@@ -10,34 +10,41 @@ const apps = [
   },
   {
     id: 2,
+    title: "💰 IRS Simulator",
+    description: "Calculate Portuguese IRS taxes for 2026 with deductions.",
+    link: "#",
+    available: false
+  },
+  {
+    id: 3,
     title: "📝 Notes App",
     description: "Take quick notes and keep them organized.",
     link: "#",
     available: false
   },
   {
-    id: 3,
+    id: 4,
     title: "📊 Analytics",
     description: "Track your metrics and visualize data.",
     link: "#",
     available: false
   },
   {
-    id: 4,
+    id: 5,
     title: "🎨 Portfolio",
     description: "Showcase your projects and achievements.",
     link: "#",
     available: false
   },
   {
-    id: 5,
+    id: 6,
     title: "📚 Resources",
     description: "Collection of useful links and tools.",
     link: "#",
     available: false
   },
   {
-    id: 6,
+    id: 7,
     title: "⚙️ Settings",
     description: "Configure your preferences and options.",
     link: "#",
