@@ -12,8 +12,8 @@ const apps = [
     id: 2,
     title: "💰 IRS Simulator",
     description: "Calculate Portuguese IRS taxes for 2026 with deductions.",
-    link: "#",
-    available: false
+    link: "https://irs-simulator-portugal.vercel.app",
+    available: true
   },
   {
     id: 3,
